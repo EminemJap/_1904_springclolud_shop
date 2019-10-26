@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/1904_spirngcloud_shop/pom.xml" />
+        <option value="$PROJECT_DIR$/j1904_springcloud_es/pom.xml" />
+        <option value="$PROJECT_DIR$/1904_springcloud_zuulserver/pom.xml" />
+        <option value="$PROJECT_DIR$/1904_springcloud_shop_user/pom.xml" />
+        <option value="$PROJECT_DIR$/1904_springcloud_shop_order/pom.xml" />
+        <option value="$PROJECT_DIR$/1904_springcloud_shop_admin/pom.xml" />
+        <option value="$PROJECT_DIR$/1904_springcloud_shop_zipkin/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

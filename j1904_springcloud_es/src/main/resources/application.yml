@@ -1,0 +1,12 @@
+server:
+  port: 8700
+spring:
+  application:
+    name: shop-es
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka/
+springcloud-es:
+  elasticsearch:
+    hostlist: ${eshostlist:127.0.0.1:9200}

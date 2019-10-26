@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1904_shop_eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1904_spirngcloud_shop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1904_springcloud_es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1904_springcloud_es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1904_springcloud_shop_admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1904_springcloud_shop_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1904_springcloud_shop_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1904_springcloud_shop_zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1904_springcloud_zuulserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/j1904_springcloud_es" charset="UTF-8" />
+  </component>
+</project>

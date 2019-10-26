@@ -1,0 +1,14 @@
+server:
+  port: 8000
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka/
+    fetch-registry: false
+    register-with-eureka: false
+  server:
+#    eviction-interval-timer-in-ms: 5000
+    enable-self-preservation: false
+spring:
+  application:
+    name: shop-server

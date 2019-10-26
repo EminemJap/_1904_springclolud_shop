@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="1904_springcloud_zuulserver" />
+        <module name="1904_springcloud_shop_user" />
+        <module name="1904_springcloud_shop_zipkin" />
+        <module name="_1904_springclolud_shop" />
+        <module name="j1904_springcloud_es" />
+        <module name="1904_spirngcloud_shop" />
+        <module name="1904_springcloud_shop_admin" />
+        <module name="1904_springcloud_shop_order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1904_shop_eurekaserver" target="1.8" />
+      <module name="1904_springcloud_es" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="1904_shop_eurekaserver" options="-parameters" />
+      <module name="1904_spirngcloud_shop" options="-parameters" />
+      <module name="1904_springcloud_es" options="-parameters" />
+      <module name="1904_springcloud_shop_admin" options="-parameters" />
+      <module name="1904_springcloud_shop_order" options="-parameters" />
+      <module name="1904_springcloud_shop_user" options="-parameters" />
+      <module name="1904_springcloud_shop_zipkin" options="-parameters" />
+      <module name="1904_springcloud_zuulserver" options="-parameters" />
+      <module name="j1904_springcloud_es" options="-parameters" />
+    </option>
+  </component>
+</project>
