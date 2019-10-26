@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e236c883-0ca1-49a8-b494-81ecbdc6751e" name="Default Changelist" comment="" />
+    <list default="true" id="e236c883-0ca1-49a8-b494-81ecbdc6751e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1904_springcloud_shop_user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/1904_springcloud_shop_user/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/1904_shop_eurekaserver/target/" />
@@ -24,24 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/j1904_springcloud_es/src/main/java/com/qf/service/FindShopService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/j1904_springcloud_es/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/j1904_springcloud_es/src/main/java/com/qf/J1904SpringcloudEsApplication.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,11 +84,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/j1904_springcloud_es/src/main/java/com/qf/config/ElasticsearchConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="408">
+              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1904_springcloud_shop_user/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1904_springcloud_shop_user/src/main/java/com/qf/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,6 +147,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -156,7 +164,6 @@
         <option value="$PROJECT_DIR$/1904_springcloud_zuulserver/src/main/java/com/qf/Application.java" />
         <option value="$PROJECT_DIR$/1904_springcloud_zuulserver/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/1904_springcloud_zuulserver/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/1904_springcloud_shop_user/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/1904_springcloud_shop_user/src/main/java/com/qf/Application.java" />
         <option value="$PROJECT_DIR$/1904_springcloud_shop_user/pom.xml" />
         <option value="$PROJECT_DIR$/1904_springcloud_shop_order/src/main/resources/application.properties" />
@@ -172,6 +179,7 @@
         <option value="$PROJECT_DIR$/1904_spirngcloud_shop/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/j1904_springcloud_es/src/main/java/com/qf/controller/FindShopController.java" />
         <option value="$PROJECT_DIR$/j1904_springcloud_es/src/main/java/com/qf/service/impl/FindShopServiceImpl.java" />
+        <option value="$PROJECT_DIR$/1904_springcloud_shop_user/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -227,6 +235,7 @@
     <option name="width" value="979" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -238,6 +247,59 @@
             <path>
               <item name="_1904_springclolud_shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="_1904_springclolud_shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1904_springclolud_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1904_springclolud_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="1904_springcloud_shop_user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1904_springclolud_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1904_springclolud_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="1904_springcloud_shop_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1904_springclolud_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1904_springclolud_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="1904_springcloud_shop_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1904_springclolud_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1904_springclolud_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="1904_springcloud_shop_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1904_springclolud_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1904_springclolud_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="1904_springcloud_shop_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1904_springclolud_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1904_springclolud_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="1904_springcloud_shop_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1904_springclolud_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1904_springclolud_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="1904_springcloud_shop_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,9 +314,10 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/git-svn/Git/git-cmd.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -362,15 +425,16 @@
       <workItem from="1571811027710" duration="4011000" />
       <workItem from="1571829485019" duration="2189000" />
       <workItem from="1571985751336" duration="857000" />
-      <workItem from="1572061319606" duration="141000" />
+      <workItem from="1572061319606" duration="580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21812000" />
+    <option name="totallyTimeSpent" value="22251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20643431" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -433,18 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1904_springcloud_shop_user/src/main/java/com/qf/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1904_springcloud_zuulserver/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -456,13 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1904_springcloud_shop_user/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -605,11 +650,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/j1904_springcloud_es/src/main/java/com/qf/config/ElasticsearchConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="408">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1904_springcloud_shop_user/src/main/java/com/qf/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1904_springcloud_shop_user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>

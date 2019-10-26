@@ -10,7 +10,7 @@ eureka:
 feign:
   hystrix:
     enabled: true
-git:
-  test
-git:
-  one more time and try
+#git:
+#  test
+#git:
+#  one more time and try
