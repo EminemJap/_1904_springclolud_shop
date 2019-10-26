@@ -12,3 +12,5 @@ feign:
     enabled: true
 git:
   test
+git:
+  one more time and try
